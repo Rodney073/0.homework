@@ -65,3 +65,7 @@ li {
     margin-top: 0px;
     top: 0;
 }
+
+li:hover {
+    color: rgb(158, 158, 158);
+}
