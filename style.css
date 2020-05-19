@@ -1,0 +1,45 @@
+body {
+    background-image: url('assets/topography.png')
+}
+header {
+    position: relative;
+    width: 100%;
+    height: 80px;
+    background-color: #2e2e2e;
+    line-height: 80px;
+}
+
+#logo {
+    
+    margin-left: 150px;
+    vertical-align: middle;
+    width: 50px;
+    max-height: 80px;
+    max-width: 100%;
+
+}
+
+.introduction, .instruction {
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#myname {
+    font-size: 60px;
+    margin-top: 80px;
+}
+
+h2 {
+    color: magenta;
+    font-style: ;
+}
+
+.technology {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
